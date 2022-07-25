@@ -4,6 +4,6 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Me, Edgar for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by Me, [Edgar Leung](https://github.com/Eds-Dbug/lighthouse-web-notes)
+ for the Lighthouse Labs Web Development Bootcamp.
 
-[Edgar Leung](https://github.com/Eds-Dbug/lighthouse-web-notes)
